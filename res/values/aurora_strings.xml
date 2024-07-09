@@ -16,4 +16,8 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Auroras -->
+    <string name="aurora_dash_title">Auroras</string>
+    <string name="aurora_summary">Customization Laboratory</string>
+
 </resources>
